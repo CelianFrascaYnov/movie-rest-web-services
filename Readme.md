@@ -10,6 +10,14 @@ Le projet MovieDB est une application de gestion de films, d'acteurs et d'auteur
 - MySQL
 - Maven
 
+## Prérequis
+
+- Base de données MySQL : Il est nécessaire d'installer auparavant la base de données MySQL via le dossier Docker contenu dans le projet. Pour cela, il faut se placer dans le dossier Docker_BDD et lancer la commande suivante :
+
+```dockerfile
+docker compose up
+```
+
 ## Installation
 
 1. Clônez le dépôt depuis GitHub :
